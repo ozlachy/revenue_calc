@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lachl\\OneDrive - Chevalier College\\Past Year Classes\\Documents\\vscode projects\\project01\\project01.csproj": {}
+    "C:\\Users\\lachl\\OneDrive - Chevalier College\\Past Year Classes\\Documents\\vscode projects\\projects\\project01\\project01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lachl\\OneDrive - Chevalier College\\Past Year Classes\\Documents\\vscode projects\\project01\\project01.csproj": {
+    "C:\\Users\\lachl\\OneDrive - Chevalier College\\Past Year Classes\\Documents\\vscode projects\\projects\\project01\\project01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lachl\\OneDrive - Chevalier College\\Past Year Classes\\Documents\\vscode projects\\project01\\project01.csproj",
+        "projectUniqueName": "C:\\Users\\lachl\\OneDrive - Chevalier College\\Past Year Classes\\Documents\\vscode projects\\projects\\project01\\project01.csproj",
         "projectName": "project01",
-        "projectPath": "C:\\Users\\lachl\\OneDrive - Chevalier College\\Past Year Classes\\Documents\\vscode projects\\project01\\project01.csproj",
+        "projectPath": "C:\\Users\\lachl\\OneDrive - Chevalier College\\Past Year Classes\\Documents\\vscode projects\\projects\\project01\\project01.csproj",
         "packagesPath": "C:\\Users\\lachl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lachl\\OneDrive - Chevalier College\\Past Year Classes\\Documents\\vscode projects\\project01\\obj\\",
+        "outputPath": "C:\\Users\\lachl\\OneDrive - Chevalier College\\Past Year Classes\\Documents\\vscode projects\\projects\\project01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lachl\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,13 @@
+C:\Users\lachl\OneDrive - Chevalier College\Past Year Classes\Documents\vscode projects\project01\bin\Debug\netcoreapp3.1\project01.exe
+C:\Users\lachl\OneDrive - Chevalier College\Past Year Classes\Documents\vscode projects\project01\bin\Debug\netcoreapp3.1\project01.deps.json
+C:\Users\lachl\OneDrive - Chevalier College\Past Year Classes\Documents\vscode projects\project01\bin\Debug\netcoreapp3.1\project01.runtimeconfig.json
+C:\Users\lachl\OneDrive - Chevalier College\Past Year Classes\Documents\vscode projects\project01\bin\Debug\netcoreapp3.1\project01.runtimeconfig.dev.json
+C:\Users\lachl\OneDrive - Chevalier College\Past Year Classes\Documents\vscode projects\project01\bin\Debug\netcoreapp3.1\project01.dll
+C:\Users\lachl\OneDrive - Chevalier College\Past Year Classes\Documents\vscode projects\project01\bin\Debug\netcoreapp3.1\project01.pdb
+C:\Users\lachl\OneDrive - Chevalier College\Past Year Classes\Documents\vscode projects\project01\obj\Debug\netcoreapp3.1\project01.csprojAssemblyReference.cache
+C:\Users\lachl\OneDrive - Chevalier College\Past Year Classes\Documents\vscode projects\project01\obj\Debug\netcoreapp3.1\project01.AssemblyInfoInputs.cache
+C:\Users\lachl\OneDrive - Chevalier College\Past Year Classes\Documents\vscode projects\project01\obj\Debug\netcoreapp3.1\project01.AssemblyInfo.cs
+C:\Users\lachl\OneDrive - Chevalier College\Past Year Classes\Documents\vscode projects\project01\obj\Debug\netcoreapp3.1\project01.csproj.CoreCompileInputs.cache
+C:\Users\lachl\OneDrive - Chevalier College\Past Year Classes\Documents\vscode projects\project01\obj\Debug\netcoreapp3.1\project01.dll
+C:\Users\lachl\OneDrive - Chevalier College\Past Year Classes\Documents\vscode projects\project01\obj\Debug\netcoreapp3.1\project01.pdb
+C:\Users\lachl\OneDrive - Chevalier College\Past Year Classes\Documents\vscode projects\project01\obj\Debug\netcoreapp3.1\project01.genruntimeconfig.cache
